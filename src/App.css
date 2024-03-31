@@ -1,0 +1,12 @@
+th, td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 8px;
+};
+.frompage{
+border: 2 px solid black;
+text-align: center;
+width: 50%;
+margin-left: 300px;
+
+}
